@@ -67,7 +67,7 @@ degiro-connector = "^2.0.3"
 python-binance = "^1.0.15"
 thepassiveinvestor = "^1.0.10"
 pymongo = "3.11"
-tensorflow = {version = "^2.7.0", optional = true}
+tensorflow = {version = "^2.7.2", optional = true}
 pandas-ta = "^0.3.14-beta.0"
 pmdarima = "^1.8.4"
 pyrsistent = "^0.18.0"
