@@ -82,7 +82,7 @@ inflection==0.5.1; python_version >= "3.6"
 iniconfig==1.1.1; python_version >= "3.6"
 ipykernel==6.5.1; python_version >= "3.7"
 ipython-genutils==0.2.0; python_version >= "3.6"
-ipython==7.29.0; python_version >= "3.7"
+ipython==8.10.0; python_version >= "3.7"
 ipywidgets==7.6.5
 iso8601==0.1.16
 isort==5.10.1; python_full_version >= "3.6.1" and python_version < "4.0" and python_version >= "3.6"
